@@ -1,6 +1,6 @@
 # intro-python
 
-Please copy and paste the following code in Data Science Experience's notebook.
+Please copy and paste the following code in [Data Science Experience](https://datascience.ibm.com/)'s notebook.
 
 ```{python}
 # Import libraries
